@@ -1,10 +1,9 @@
 ---
-name: TODO TEST
+name: TODO
 about: What do we need to do?
 title: "[CATEGORY]: [BRIEF DESC]"
 labels: triage
 assignees: weefatboi
-
 ---
 
 ## Depends On
