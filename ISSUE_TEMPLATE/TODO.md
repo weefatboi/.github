@@ -1,5 +1,10 @@
-# TODO
-> What do we need to do?
+---
+name: TODO
+about: What do we need to do?
+title: "[Category]: [Brief Desc]"
+labels: triage
+assignees: "weefatboi"
+---
 
 ## Depends On
 <!-- Optional: what ticket does this depend on? Native GH link. -->
